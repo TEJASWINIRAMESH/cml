@@ -13,3 +13,17 @@
 7s.py,7c.py --> Write a basic client-server program using sockets to simulate an RPC. The client sends a function call request, and the server executes the function and returns the result.
 
 8user.py,8.py --> Write a program to demonstrate two processes writing and reading data from a shared memory segment. Mainly use 8user.py
+
+
+sudo apt update
+sudo apt install gcc
+
+sudo apt install build-essential
+nano pipe.c
+gcc pipe.c -o pipe
+./pipe
+
+
+
+
+Run code in terminal
